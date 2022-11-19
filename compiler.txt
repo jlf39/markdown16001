@@ -1,0 +1,15 @@
+# *Compilers and Interpreters*
+
+
+## __What is a compiler?__
+A compiler translates code written in a high level language into machine code. 
+The compiler does this once before the program runs. Compilers are very common
+and widely used in the coding community. Compiled code runs fast, displays errors 
+once the code is run, and is based on the translation linking loading model.
+
+## __What is an interpreter?__
+An interpreter is very similar to a compiler in the sense that it converts a high
+level language into a low level language. However, it does this quite differently
+than a compiler. An interpreter converts high level code into machine code but it does
+this one line at a time while the program runs. Interpreter code runs slower than Compiled
+code and displays the errors one line at a time
